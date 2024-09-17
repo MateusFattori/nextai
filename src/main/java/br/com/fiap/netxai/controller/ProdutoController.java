@@ -24,6 +24,7 @@ import br.com.fiap.netxai.model.Produto;
 import br.com.fiap.netxai.repository.ProdutoRepository;
 import lombok.extern.slf4j.Slf4j;
 
+
 @CrossOrigin(origins = "https://witty-desert-0abd3be0f.5.azurestaticapps.net")
 @RestController
 @RequestMapping("produto")
